@@ -13,7 +13,7 @@ Similarly, user can update the **columnConfigFile** to update the column title a
 
 
 
-##Test
+## Test
 For test purpose, a **test.txt** (test data), **testColumnConfig.txt** (test column configuration) and **testIdConfig.txt**
 (test row configuration) have been added in the package. 
 
